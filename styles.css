@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    text-decoration: underline;
+}
+
+img{
+    margin: 0 auto;
+    display: block;
+}
+p{
+    text-align: center;
+}
+
+p4{
+    text-align: right;
+}
+
+.parent{
+    text-align: center;
+}
